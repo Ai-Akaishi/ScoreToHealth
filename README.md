@@ -10,6 +10,10 @@ Simply set the player's ScoreToHealth to 100 times the desired Health.
 例)12.34にしたい場合  
 /scoreboard players set @s ScoreToHealth 1234
 
+# 連絡はこちら/Contact
+
+https://twitter.com/AiAkaishi
+
 # やさしいライセンス
 
 1. 著作権表示してね  
