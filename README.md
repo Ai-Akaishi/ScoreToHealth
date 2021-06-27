@@ -2,6 +2,15 @@
 (Minecraft 1.16+) Very Easy Way to Sync Player's Health with Score  
 プレイヤーの体力をスコアで設定できます！
 
+# 動作確認済みバージョン / Verified minecraft versions
+
+- 1.17
+
+以下のバージョンは右のReleasesからどうぞ。  
+For the following versions, please check Releases on the right.
+
+- 1.16.x
+
 # 使い方/How To Use
 
 プレイヤーのScoreToHealthに、目的のHealthの100倍をセットするだけ！  
