@@ -1,31 +1,34 @@
 # ScoreToHealth
-(Minecraft 1.16+) Very Easy Way to Sync Player's Health with Score  
+
+Very Easy Way to Sync Player's Health with Score  
 プレイヤーの体力をスコアで設定できます！
 
-# 動作確認済みバージョン / Verified minecraft versions
+## 動作確認済みバージョン / Verified minecraft versions
 
-- 1.19
-- 1.18
-- 1.17
+- 1.21
 
 以下のバージョンは右のReleasesからどうぞ。  
 For the following versions, please check Releases on the right.
 
+- 1.20.x
+- 1.19.x
+- 1.18.x
+- 1.17.x
 - 1.16.x
 
-# 使い方/How To Use
+## 使い方/How To Use
 
 プレイヤーのScoreToHealthに、目的のHealthの100倍をセットするだけ！  
 Simply set the player's ScoreToHealth to 100 times the desired Health.
 
-例)12.34にしたい場合  
+例）12.34にしたい場合  
 /scoreboard players set @s ScoreToHealth 1234
 
-# 連絡はこちら/Contact
+## 連絡はこちら/Contact
 
-https://twitter.com/AiAkaishi
+<https://twitter.com/AiAkaishi>
 
-# やさしいライセンス
+## やさしいライセンス
 
 1. 著作権表示してね  
 このデータパックのファイルから著作権表示消したりしたらダメなだけで  
@@ -36,6 +39,6 @@ https://twitter.com/AiAkaishi
 4. 無料です  
 個人でも商用でも！
 
-# LICENSE
+## LICENSE
 
 This datapack is released under the Apache License, Version 2.0, see LICENSE.

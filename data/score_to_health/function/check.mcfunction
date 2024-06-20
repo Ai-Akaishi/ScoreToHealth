@@ -12,5 +12,8 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 
-attribute @s minecraft:generic.max_health modifier remove bab7cdc2-fb6a-47f6-0001-FF
-tag @s remove ScoreToHealth.AntiGlitch.Protected
+execute store result score #_ ScoreToHealth run attribute @s minecraft:generic.max_health get 100
+execute store result score #__ ScoreToHealth run data get entity @s Health 100
+scoreboard players operation #__ ScoreToHealth -= #_ ScoreToHealth
+
+execute if score #__ ScoreToHealth matches ..0 run function score_to_health:modify
